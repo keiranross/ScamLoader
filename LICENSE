@@ -1,0 +1,66 @@
+ScamLoader, ClipCleaner and other KeiranR mods — License
+=========================================================
+
+Copyright (c) 2026 KeiranR. All rights reserved.
+
+This license covers the author's own work: ScamLoader, ClipCleaner and every other mod in this
+repository, including their compiled files (such as ScamLoader.dll and ClipCleaner.dll), source
+code, documentation and release packages (together, "the Software"). It does not cover the
+third-party components listed at the end, which keep their own licenses.
+
+
+1. WHAT YOU MAY DO
+
+If you obtained the Software from an official source — the author's Nexus Mods pages or the
+author's GitHub repository — you may, free of charge:
+
+  a) download, install and use the Software for your own personal, non-commercial use;
+  b) read and study the source code;
+  c) write and share your own, separate mods that work with ScamLoader, as long as your mod does
+     not include, copy or bundle any of the Software's files.
+
+
+2. WHAT YOU MAY NOT DO
+
+Unless the author has given you written permission first, you may not:
+
+  a) redistribute, re-upload, repost, mirror or otherwise publish the Software or any of its
+     files, in whole or in part, on any website, service, platform, mod manager, server or
+     storage, whether free or paid;
+  b) share direct download links to copies of the files, or send the files to anyone by any
+     means (messages, email, file sharing, Discord, and so on) — point people to the official
+     download page instead;
+  c) sell, rent, lease, sublicense or otherwise make money from the Software, including putting
+     it behind a paywall, in a paid bundle, a modpack or a subscription;
+  d) distribute modified versions of the Software, or files derived from it;
+  e) remove, hide or change this license, the copyright notice or the author credit.
+
+Forking the source repository on GitHub, where GitHub's Terms of Service allow it, is permitted
+only to view the code or to propose changes back to the author. It gives no other rights under
+this license.
+
+
+3. ENDING OF PERMISSION
+
+If you break any of these terms, your permission to use the Software ends automatically and
+immediately.
+
+
+4. NO WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT
+NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. YOU USE IT AT YOUR OWN RISK.
+
+
+5. THIRD-PARTY COMPONENTS (NOT COVERED BY THIS LICENSE)
+
+The ScamLoader package includes Unity Doorstop 4.5.0 by NeighTools — the files winhttp.dll and
+doorstop_config.ini. Those files are licensed under the GNU Lesser General Public License v2.1
+(see LICENSE-Doorstop.txt / third_party/doorstop/LICENSE). Nothing in this license limits any right
+you have to those files under the LGPL. Doorstop is available from
+https://github.com/NeighTools/UnityDoorstop
+
+For permission requests, contact KeiranR through the official Nexus Mods page.

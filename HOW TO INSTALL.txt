@@ -1,0 +1,30 @@
+ScamLoader 1.0.0 - HOW TO INSTALL
+=================================
+
+1. Open the game folder:
+   In Steam, right-click "Scam With Your Friends" > Manage > Browse local files.
+
+2. Copy EVERYTHING from this zip into that game folder:
+   - the ScamLoader folder
+   - winhttp.dll
+   - doorstop_config.ini
+   They must sit right next to "Scam With Your Friends.exe"
+   (not inside another folder). If Windows asks to replace files, say Yes.
+
+3. Start the game. A MODS button on the main menu means it worked.
+
+Adding mods:
+   Each mod goes in its own folder inside:  <game folder>\ScamLoader\Mods\
+   Every mod zip comes with its own HOW TO INSTALL.txt.
+
+Uninstall:
+   Delete winhttp.dll, doorstop_config.ini and the ScamLoader folder
+   from the game folder (and this file, if you copied it).
+
+Safety:
+   Only download ScamLoader from its official page.
+
+License:
+   Personal use only. Please don't re-upload these files or send them to
+   others - share the official download page instead. See LICENSE.txt.
+   Full details, checksums and troubleshooting: ScamLoader\README.md
