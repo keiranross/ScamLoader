@@ -38,6 +38,6 @@ The download includes `ScamLoader\MODDING.md`: a ready-to-build project template
 
 ## License
 
-Copyright (c) 2026 KeiranR. All rights reserved. Personal use only: **please don't re-upload these files or send them to others** — link to this page instead. See [LICENSE](LICENSE).
+Copyright (c) 2026 KeiranR. All rights reserved. Personal use only: **please don't re-upload these files or send them to others**. Link to this page instead. See [LICENSE](LICENSE).
 
 The download includes [Unity Doorstop](https://github.com/NeighTools/UnityDoorstop) 4.5.0 by NeighTools (`winhttp.dll`, `doorstop_config.ini`), unmodified, under its own LGPL-2.1 license (included in the zip).
