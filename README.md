@@ -14,7 +14,7 @@ BepInEx and MelonLoader can't run on this game (its code is heavily stripped), s
 
 **[Download ScamLoader 1.0.0](https://github.com/keiranross/ScamLoader/releases/download/v1.0.0/ScamLoader-1.0.0.zip)**, or see [Releases](https://github.com/keiranross/ScamLoader/releases).
 
-SHA-256 of `ScamLoader-1.0.0.zip`: `c216380900dbc4074821a9717b1afca54ff66ba2558f5e7f8204ec90659755ed`
+SHA-256 of `ScamLoader-1.0.0.zip`: `88724b47af8d8ef8044ec3d212a14304f31978769f48e7ece25527d1b0326d00`
 
 ## Install
 
